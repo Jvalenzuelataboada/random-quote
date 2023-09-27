@@ -1,0 +1,21 @@
+.app {
+  
+  background-size: cover;
+  background-position: center;
+}
+
+.app.bg1 {
+  background-image: url(/galletaamarilla.jpeg);
+}
+
+.app.bg2 {
+  background-image: url(/galletaazul.jpeg);
+}
+
+.app.bg3 {
+  background-image: url(/galletarosa.jpeg);
+}
+
+.app.bg4 {
+  background-image: url(/galletaverde.jpeg);
+}
