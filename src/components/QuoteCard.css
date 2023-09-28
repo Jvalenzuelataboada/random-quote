@@ -12,3 +12,37 @@
     margin: 30px auto;
     max-width: 400px;
 }
+
+.quoteCard__title {
+    color: white;
+    font-style: italic;
+    font-size: 50px;
+    text-shadow: 0.1em 0.1em #333;
+    padding: 20px;
+}
+
+
+.quoteCard__phrase {
+    background-color: white;
+    color: #333;
+    font-style: italic;
+    margin-top: 100px;
+    width: 250;
+    height: 100px;
+    display: flex;
+    flex-wrap: calc(100%);
+}
+
+.quoteCard__btn {
+    font-style: italic;
+    border: none;
+    color: #333;
+    border-radius: 5px;
+    cursor:pointer;
+    padding: 14px 28px;
+    box-shadow: transparent;
+}
+
+.quoteCard__btn:hover {
+    background-color: burlywood;
+}
